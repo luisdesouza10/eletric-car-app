@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sobrenome" type="id" />
+    <item name="cidade" type="id" />
+    <item name="nome" type="id" />
+</resources>
