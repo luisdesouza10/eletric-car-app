@@ -51,7 +51,7 @@ class FavoriteFragment : Fragment() {
             adapter = carroAdapter
         }
         carroAdapter.carItemLister = { carro ->
-            //
+            // @TODO IMPLEMENTAR O DELETE NO BANCO DE DADOS
         }
     }
 
